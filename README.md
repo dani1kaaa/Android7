@@ -1,2 +1,3 @@
-# Android7
-![Screenshot](srcreenshot.png)
+# GNM_ANDROID_LAB07
+
+![Screenshot](screenshot1.png)
